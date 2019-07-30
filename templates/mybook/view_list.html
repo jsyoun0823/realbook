@@ -1,0 +1,18 @@
+{% extends "mybook/base.html" %}
+
+{% block content %}
+<p><h2 align = Center> My Book List </h2></p>
+
+<section id="gridSystem">
+{% for book in books %}
+<div class="row show-grid">
+		<p align = Center><strong> title: </strong>{{ book }} &nbsp&nbsp
+					<a href="{% url 'delete_book' %}?delete={{delete}}&books={{books}}&book={{book}}" method="GET"> {{delete}}
+		 	<button style="background-color:#dbdbdb;font-size:14px" class=""type="submit" class="btn btn-primary btn-small pull-center">삭제 &raquo;</button></a>
+
+		</p>
+</div>
+{% endfor %}
+</section>
+
+{% endblock content %}

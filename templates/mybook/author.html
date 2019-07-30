@@ -1,0 +1,12 @@
+{% extends "mybook/base.html" %}
+
+{% block content %}
+        <form action="{% url 'author' %}" method="POST">
+            {% csrf_token %}
+            <h2 align = Center>작가별 도서 검색 </h2>
+            <p> <br><br></p>
+            <p align = Center><input type="search" class="span3" placeholder="작가를 입력하세요." name="data" id="search" autofocus /> </p>
+            <p align = Center><button type="submit" class="btn btn-primary btn-large pull-center">Search &raquo;</button></p>
+        </form>
+
+{% endblock content %}

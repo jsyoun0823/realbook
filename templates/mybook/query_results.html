@@ -1,0 +1,14 @@
+{% extends "mybook/base.html" %}
+
+{% block content %}
+<p><h2 align = Center>유사도서 검색 결과</h2></p>
+
+<section id="gridSystem">
+{% for book,bookindx in books %}
+<div class="row show-grid">
+	<p align = Center><strong> title: </strong>{{ book }} </p>
+</div>
+{% endfor %}
+</section>
+
+{% endblock content %}

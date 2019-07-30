@@ -1,0 +1,62 @@
+[0602/151509.940:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/151509.949:ERROR:exception_snapshot_win.cc(98)] thread ID 60764 not found in process
+[0602/153146.975:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/153146.978:ERROR:exception_snapshot_win.cc(98)] thread ID 60904 not found in process
+[0602/154302.159:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/154302.162:ERROR:exception_snapshot_win.cc(98)] thread ID 60468 not found in process
+[0602/154708.720:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/154708.722:ERROR:exception_snapshot_win.cc(98)] thread ID 33692 not found in process
+[0602/154810.077:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/154810.078:ERROR:exception_snapshot_win.cc(98)] thread ID 68380 not found in process
+[0602/160059.078:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/160059.081:ERROR:exception_snapshot_win.cc(98)] thread ID 66400 not found in process
+[0602/160104.329:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/160104.331:ERROR:exception_snapshot_win.cc(98)] thread ID 70284 not found in process
+[0602/160940.240:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/160940.241:ERROR:exception_snapshot_win.cc(98)] thread ID 72320 not found in process
+[0602/161657.817:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/161657.820:ERROR:exception_snapshot_win.cc(98)] thread ID 61372 not found in process
+[0602/161657.858:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/161657.863:ERROR:exception_snapshot_win.cc(98)] thread ID 72920 not found in process
+[0602/162010.660:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/162010.662:ERROR:exception_snapshot_win.cc(98)] thread ID 11672 not found in process
+[0602/162237.710:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/162237.711:ERROR:exception_snapshot_win.cc(98)] thread ID 72048 not found in process
+[0602/162534.227:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/162534.238:ERROR:exception_snapshot_win.cc(98)] thread ID 54424 not found in process
+[0602/162737.483:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/162737.485:ERROR:exception_snapshot_win.cc(98)] thread ID 7164 not found in process
+[0602/164048.044:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/164048.045:ERROR:exception_snapshot_win.cc(98)] thread ID 80104 not found in process
+[0602/165128.026:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/165128.029:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/165128.029:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/165128.030:ERROR:exception_snapshot_win.cc(98)] thread ID 78968 not found in process
+[0602/165128.028:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/165128.030:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/165128.031:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/165128.032:ERROR:exception_snapshot_win.cc(98)] thread ID 43732 not found in process
+[0602/165534.474:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/165534.475:ERROR:exception_snapshot_win.cc(98)] thread ID 84372 not found in process
+[0602/170004.351:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/170004.357:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/170004.357:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/170004.357:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/170004.357:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/170004.357:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/170004.357:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/170004.358:ERROR:exception_snapshot_win.cc(98)] thread ID 68128 not found in process
+[0602/170644.657:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/170644.659:ERROR:exception_snapshot_win.cc(98)] thread ID 87920 not found in process
+[0602/170907.528:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/170907.531:ERROR:exception_snapshot_win.cc(98)] thread ID 44180 not found in process
+[0602/171603.841:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/171603.843:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/171603.843:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/171603.843:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/171603.843:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/171603.843:ERROR:process_reader_win.cc(151)] SuspendThread: 액세스가 거부되었습니다. (0x5)
+[0602/171603.843:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/171603.844:ERROR:exception_snapshot_win.cc(98)] thread ID 90892 not found in process
+[0602/172105.222:ERROR:process_reader_win.cc(123)] NtOpenThread: {액세스 거부} 프로세스가 개체에 액세스를 요구했지만 액세스 권한이 없습니다. (0xc0000022)
+[0602/172105.229:ERROR:exception_snapshot_win.cc(98)] thread ID 61668 not found in process
